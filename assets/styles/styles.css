@@ -1,0 +1,205 @@
+/* Normatt.com Stylesheet */
+/* Copyright (C)2012 Normatt Construction Services, Inc. All rights reserved. */
+
+
+body{
+  background: #313131;
+  font: 16px Arial, Helvetica, sans-serif;
+  color: #2C2C2C;
+}
+
+h1{
+  margin: 1em 0; padding: 0;
+  background: url('/assets/images/call-us-message.png');
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+}
+
+#wrapper{
+  width: 1000px;
+  margin: 0 auto;
+}
+
+#top-home{
+  margin: 20px 0;
+}
+
+#top-home .top{
+  background: #FFFFFF;
+  -webkit-border-top-left-radius: 10px;
+  -webkit-border-top-right-radius: 10px;
+  -moz-border-radius-topleft: 10px;
+  -moz-border-radius-topright: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+#top-home .bottom img{
+  -webkit-border-bottom-right-radius: 10px;
+  -webkit-border-bottom-left-radius: 10px;
+  -moz-border-radius-bottomright: 10px;
+  -moz-border-radius-bottomleft: 10px;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+#top{
+  margin: 20px 0;
+  background: #FFFFFF;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+}
+
+#top-home .top img, #top img{
+  margin: 26px 0 21px  0;
+}
+
+#mainmenu ul{
+
+}
+
+#mainmenu ul li{
+  display: inline-block;
+  vertical-align: top;
+  zoom: 1;           /* IE7 Fix */
+  *display: inline;  /* IE7 Fix */
+}
+
+#mainmenu ul li a{
+  display: block;
+  padding: 10px 20px;
+  background: ;
+  text-decoration: none;
+  color: #FFFFFF;
+  font-weight: bold;
+  font-size: 16px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+}
+
+#mainmenu ul li a:hover{
+  background: #646464;
+}
+
+#mainmenu ul li a.active{
+  background: #646464;
+}
+
+#content{
+  margin: 20px 0;
+  padding: 25px;
+  background: #FFFFFF;
+  line-height: 1.5;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+}
+
+#content .text{
+  display: inline-block;
+  vertical-align: top;
+  max-width: 590px;
+  padding-right: 16px;
+  zoom: 1;           /* IE7 Fix */
+  *display: inline;  /* IE7 Fix */
+}
+
+#content .images{
+  display: inline-block;
+  vertical-align: top;
+  width: 330px;
+  zoom: 1;           /* IE7 Fix */
+  *display: inline;  /* IE7 Fix */
+}
+
+#content .images img{
+  border: 1px solid #000000;
+  margin-bottom: 20px;
+}
+
+form p{
+  line-height: 1;
+  margin: 0 0 20px 270px;
+  width: 400px;
+}
+
+form p img{
+  float: right;
+}
+
+form div{
+  clear: left;
+  margin-top: 20px;
+}
+
+form span{
+  font-size: 1.5em;
+  font-weight: bold;
+  margin: 0 5px;
+}
+
+form label{
+  display: block;
+  float: left;
+  padding-right: 20px;
+  text-align: right;
+  width: 250px;
+}
+
+form label.required{
+  font-weight: bold;
+}
+
+form input, form select, form textarea{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1em;
+}
+
+form input[type=submit]{
+  margin-left: 270px;
+}
+
+.feature-box{
+  margin: 0 20px 20px 20px; padding: 20px;
+  width: 40%;
+  background: #b9b9cd;
+  font-size: 18px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+}
+
+.left{
+  float: left;
+}
+
+.right{
+  float: right;
+}
+
+#bottom p{
+  margin: 2em 0;
+  color: #FFFFFF;
+  text-align: center;
+}
+
+#bottom a{
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+#bottom .menu{
+  font-weight: bold;
+  font-size: 16px;
+}
+
+#bottom .contact{
+  font-size: 14px;
+}
+
+#bottom .legal{
+  font-size: 14px;
+}

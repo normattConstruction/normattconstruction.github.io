@@ -1,0 +1,2 @@
+[18-Nov-2013 09:52:24 MST] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Could not execute mail delivery program '/usr/sbin/sendmail -t -i' in /home/chicago1/normatt.com/formmail/index.php on line 32
+[18-Nov-2013 09:52:24 MST] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/chicago1/normatt.com/formmail/index.php:32) in /home/chicago1/normatt.com/formmail/index.php on line 35
