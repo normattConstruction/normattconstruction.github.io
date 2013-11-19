@@ -40,7 +40,7 @@ Fax: (773) 631-3721</p>
 <h2>Email</h2>
 Our email address: <a href="mailto:normattconstruction@gmail.com">normattconstruction@gmail.com</a>
 
-<!--h2>Contact Form</h2>
+<h2>Contact Form</h2>
 
 <form method="POST" action="/formmail/">
   <fieldset>
@@ -103,7 +103,7 @@ Our email address: <a href="mailto:normattconstruction@gmail.com">normattconstru
       <input type="submit" value="Submit Request">
     </div>
   </fieldset>
-</form-->
+</form>
  
       </div>
       <div id="bottom">
